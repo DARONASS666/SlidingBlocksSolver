@@ -2,7 +2,6 @@
 a program written in Java to take in a file as input , construct a board and solve it as Chinese sliding blocks with Depth First Search, Breadth First Search and A* Search algorithms available to test.
 
 
-F I N A L   P R O J E C T   C S  4 7 B
 AUTHOR: DARON ASSADOURIAN
 
 B L O C K   C L A S S   W R I T E - UP

@@ -1,6 +1,9 @@
 # SlidingBlocksSolver
 a program written in Java to take in a file as input , construct a board and solve it as Chinese sliding blocks with Depth First Search, Breadth First Search and A* Search algorithms available to test.
 
+New Version includes some basic visual results after a solution is found, to track between all the steps from the beginning to the end to visualize the given algorithm.
+Later versions may include more such as constructing your own board on the JFrame yourself and add more functionality such as saving and loading solution etc.
+
 
 AUTHOR: DARON ASSADOURIAN
 

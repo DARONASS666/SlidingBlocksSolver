@@ -4,6 +4,14 @@ a program written in Java to take in a file as input , construct a board and sol
 New Version includes some basic visual results after a solution is found, to track between all the steps from the beginning to the end to visualize the given algorithm.
 Later versions may include more such as constructing your own board on the JFrame yourself and add more functionality such as saving and loading solution etc.
 
+### Instructions on How To Use (for now):
+Download all the code into any folder. 
+In the same folder, define a text file containing rows of numbers in the format described below.
+Define another text file containing the rows of numbers (for the goal board configuration).
+Make sure to properly set these text files in the configuration settings of the IDE to obtain them from the args variable in main upon compiling and running.
+If the goal board is reachable from the initial board then the solver should solve it and display a path of solutions in a JFrame.
+In order to test between different algorithms, replace the character in the solve function called in main with one of the characters 'a' , 'd', 'b' 
+for the solver to use A* Search or Depth First Search or Breadth First Search and compare the results!
 
 AUTHOR: DARON ASSADOURIAN
 
